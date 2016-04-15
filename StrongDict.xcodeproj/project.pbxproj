@@ -15,6 +15,7 @@
 		8BBCFB1A1CC11DB800F775E6 /* StrongDictTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BBCFB191CC11DB800F775E6 /* StrongDictTests.swift */; };
 		8BBCFB251CC11DD400F775E6 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BBCFB241CC11DD400F775E6 /* Person.swift */; };
 		8BBCFB271CC1202B00F775E6 /* Person.json in Resources */ = {isa = PBXBuildFile; fileRef = 8BBCFB261CC1202B00F775E6 /* Person.json */; };
+		8BBCFB291CC122B000F775E6 /* Dictionary+Pull.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BBCFB281CC122B000F775E6 /* Dictionary+Pull.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		8BBCFB1B1CC11DB800F775E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8BBCFB241CC11DD400F775E6 /* Person.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		8BBCFB261CC1202B00F775E6 /* Person.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Person.json; sourceTree = "<group>"; };
+		8BBCFB281CC122B000F775E6 /* Dictionary+Pull.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Dictionary+Pull.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				8BBCFB0B1CC11DB800F775E6 /* Assets.xcassets */,
 				8BBCFB0D1CC11DB800F775E6 /* LaunchScreen.storyboard */,
 				8BBCFB241CC11DD400F775E6 /* Person.swift */,
+				8BBCFB281CC122B000F775E6 /* Dictionary+Pull.swift */,
 				8BBCFB261CC1202B00F775E6 /* Person.json */,
 				8BBCFB101CC11DB800F775E6 /* Info.plist */,
 			);
@@ -206,6 +209,7 @@
 			files = (
 				8BBCFB251CC11DD400F775E6 /* Person.swift in Sources */,
 				8BBCFB071CC11DB800F775E6 /* ViewController.swift in Sources */,
+				8BBCFB291CC122B000F775E6 /* Dictionary+Pull.swift in Sources */,
 				8BBCFB051CC11DB800F775E6 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
